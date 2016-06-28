@@ -1,0 +1,2 @@
+# androidDevTempl
+计划做一个基于android的平台，包括一些基本的操作和界面，修改一些配置和变量就能得到app
